@@ -1,0 +1,4 @@
+streamlit>=1.38
+groq
+python-dotenv
+bcrypt

@@ -1,0 +1,8 @@
+{
+  "pythonVersion": "3.10",
+  "include": ["app"],
+  "extraPaths": ["app"],
+  "typeCheckingMode": "basic",
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false
+}
